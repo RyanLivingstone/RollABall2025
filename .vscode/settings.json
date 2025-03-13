@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "imdm101roll_a_ball.sln"
+    "dotnet.defaultSolution": "RollABall2025.sln"
 }
